@@ -18,5 +18,4 @@ others | meh | meh
 Whatever’s relevant
 
 ## Images
-![dank meme]
-(https://github.com/brianluu17/stuff/blob/master/Instagram-ff3c74.png)
+![dank meme](https://github.com/brianluu17/stuff/blob/master/Instagram-ff3c74.png)
